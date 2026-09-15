@@ -8,6 +8,8 @@ Hi, I'm Chibuzor, going by loxsec here. I'm an aspiring SOC Analyst, learning Li
 - Building toward the CCST Cybersecurity certification. This is the starting line, not the finish line.
 
 ## 🗂️ Case Files
-- [SSH Brute-Force Detection & Investigation](link-once-repo-exists) — full incident write-up: hypothesis testing, SPL queries, a real bug caught and fixed
+ #Full incident write-up: hypothesis testing, SPL queries, a real bug caught and fixed
+- [SSH Brute-Force Detection & Investigation](ssh-bruteforce-detection/) -- Splunk, MITRE ATT&CK T1110
+- [botsv1 wayne-enterprise investigation](botsv1-wayne-enterprises/) -- Splunk, Boss of the SOC
 
 I also post some of this on YouTube as I go: [@loxsecHQ](https://www.youtube.com/@loxsecHQ)
