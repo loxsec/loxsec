@@ -5,6 +5,7 @@ Hi, I'm Chibuzor, going by loxsec here. I'm an aspiring SOC Analyst, learning Li
 - Completed: SSH brute-force detection & investigation (Splunk, MITRE ATT&CK T1110), Sysmon/Windows endpoint log analysis
 - Completed LetsDefend SOC Analyst path
 - Completed: Boss of the SOC (BOTS v1) incident report
+- Next up: building a live SIEM/EDR monitoring lab with Wazuh — moving from historical log analysis to real-time detection
 - Building toward the CCST Cybersecurity certification. This is the starting line, not the finish line.
 
 ## 🗂️ Case Files
