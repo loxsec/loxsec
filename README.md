@@ -13,3 +13,5 @@ Hi, I'm Chibuzor, going by loxsec here. I'm an aspiring SOC Analyst, learning Li
 - [botsv1 wayne-enterprise investigation](https://github.com/loxsec/soc-case-files/tree/main/botsv1-wayne-enterprises) -- Splunk, Boss of the SOC
 
 I also post some of this on YouTube as I go: [@loxsecHQ](https://www.youtube.com/@loxsecHQ)
+
+📫 Connect with me: [LinkedIn](https://linkedin.com/in/chibuzor-nkemdilim)
