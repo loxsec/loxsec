@@ -6,6 +6,7 @@ Hi, I'm Chibuzor (loxsec). I'm an entry-level Tier 1 SOC analyst in Ibadan, Nige
 - Completed: Boss of the SOC (BOTS v1) incident report
 - Completed: LetsDefend SOC Analyst path
 - Completed: LetsDefend Malware Analysis path
+- Cybersecurity Job Simulation (Mastercard)
 - Planned: Cisco CCST, then CompTIA Security+
 
 Open to Tier 1 SOC analyst roles, on-site in Nigeria or remote.
